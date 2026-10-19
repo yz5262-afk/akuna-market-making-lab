@@ -1,0 +1,279 @@
+{
+  "seed": 5262,
+  "synthetic_history_days": 401,
+  "calibration_changed_prior": true,
+  "strikes": [
+    85.0,
+    86.0,
+    87.0,
+    88.0,
+    89.0,
+    90.0,
+    91.0,
+    92.0,
+    93.0,
+    94.0,
+    95.0,
+    96.0,
+    97.0,
+    98.0,
+    99.0,
+    100.0,
+    101.0,
+    102.0,
+    103.0,
+    104.0,
+    105.0,
+    106.0,
+    107.0,
+    108.0,
+    109.0,
+    110.0,
+    111.0,
+    112.0,
+    113.0,
+    114.0,
+    115.0
+  ],
+  "prices": [
+    1.0,
+    1.0,
+    0.9997,
+    0.9994,
+    0.9983,
+    0.9971,
+    0.9939,
+    0.9863,
+    0.97,
+    0.944,
+    0.902,
+    0.8459,
+    0.7597,
+    0.6676,
+    0.5618,
+    0.4556,
+    0.3502,
+    0.2596,
+    0.1862,
+    0.1264,
+    0.0783,
+    0.0472,
+    0.0276,
+    0.0149,
+    0.0079,
+    0.0038,
+    0.0015,
+    0.0006,
+    0.0004,
+    0.0002,
+    0.0001
+  ],
+  "quotes": [
+    {
+      "inventory": -20,
+      "bid": 0.51,
+      "offer": 0.99
+    },
+    {
+      "inventory": -19,
+      "bid": 0.51,
+      "offer": 0.58
+    },
+    {
+      "inventory": -18,
+      "bid": 0.5,
+      "offer": 0.57
+    },
+    {
+      "inventory": -17,
+      "bid": 0.5,
+      "offer": 0.57
+    },
+    {
+      "inventory": -16,
+      "bid": 0.49,
+      "offer": 0.56
+    },
+    {
+      "inventory": -15,
+      "bid": 0.49,
+      "offer": 0.56
+    },
+    {
+      "inventory": -14,
+      "bid": 0.48,
+      "offer": 0.55
+    },
+    {
+      "inventory": -13,
+      "bid": 0.48,
+      "offer": 0.55
+    },
+    {
+      "inventory": -12,
+      "bid": 0.47,
+      "offer": 0.54
+    },
+    {
+      "inventory": -11,
+      "bid": 0.47,
+      "offer": 0.54
+    },
+    {
+      "inventory": -10,
+      "bid": 0.47,
+      "offer": 0.54
+    },
+    {
+      "inventory": -9,
+      "bid": 0.46,
+      "offer": 0.53
+    },
+    {
+      "inventory": -8,
+      "bid": 0.46,
+      "offer": 0.53
+    },
+    {
+      "inventory": -7,
+      "bid": 0.45,
+      "offer": 0.52
+    },
+    {
+      "inventory": -6,
+      "bid": 0.45,
+      "offer": 0.52
+    },
+    {
+      "inventory": -5,
+      "bid": 0.44,
+      "offer": 0.51
+    },
+    {
+      "inventory": -4,
+      "bid": 0.44,
+      "offer": 0.51
+    },
+    {
+      "inventory": -3,
+      "bid": 0.43,
+      "offer": 0.5
+    },
+    {
+      "inventory": -2,
+      "bid": 0.43,
+      "offer": 0.5
+    },
+    {
+      "inventory": -1,
+      "bid": 0.43,
+      "offer": 0.5
+    },
+    {
+      "inventory": 0,
+      "bid": 0.42,
+      "offer": 0.49
+    },
+    {
+      "inventory": 1,
+      "bid": 0.42,
+      "offer": 0.49
+    },
+    {
+      "inventory": 2,
+      "bid": 0.41,
+      "offer": 0.48
+    },
+    {
+      "inventory": 3,
+      "bid": 0.41,
+      "offer": 0.48
+    },
+    {
+      "inventory": 4,
+      "bid": 0.4,
+      "offer": 0.47
+    },
+    {
+      "inventory": 5,
+      "bid": 0.4,
+      "offer": 0.47
+    },
+    {
+      "inventory": 6,
+      "bid": 0.39,
+      "offer": 0.46
+    },
+    {
+      "inventory": 7,
+      "bid": 0.39,
+      "offer": 0.46
+    },
+    {
+      "inventory": 8,
+      "bid": 0.38,
+      "offer": 0.45
+    },
+    {
+      "inventory": 9,
+      "bid": 0.38,
+      "offer": 0.45
+    },
+    {
+      "inventory": 10,
+      "bid": 0.38,
+      "offer": 0.45
+    },
+    {
+      "inventory": 11,
+      "bid": 0.37,
+      "offer": 0.44
+    },
+    {
+      "inventory": 12,
+      "bid": 0.37,
+      "offer": 0.44
+    },
+    {
+      "inventory": 13,
+      "bid": 0.36,
+      "offer": 0.43
+    },
+    {
+      "inventory": 14,
+      "bid": 0.36,
+      "offer": 0.43
+    },
+    {
+      "inventory": 15,
+      "bid": 0.35,
+      "offer": 0.42
+    },
+    {
+      "inventory": 16,
+      "bid": 0.35,
+      "offer": 0.42
+    },
+    {
+      "inventory": 17,
+      "bid": 0.34,
+      "offer": 0.41
+    },
+    {
+      "inventory": 18,
+      "bid": 0.34,
+      "offer": 0.41
+    },
+    {
+      "inventory": 19,
+      "bid": 0.34,
+      "offer": 0.41
+    },
+    {
+      "inventory": 20,
+      "bid": 0.01,
+      "offer": 0.4
+    }
+  ],
+  "performance_claim": "none; synthetic diagnostics only"
+}
